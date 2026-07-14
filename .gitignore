@@ -1,0 +1,11 @@
+.env
+.env.local
+__pycache__/
+*.pyc
+.venv/
+venv/
+enterprise-kb-assistant/data/uploads/
+enterprise-kb-assistant/data/chroma/
+enterprise-kb-assistant/data/app.db
+enterprise-kb-assistant/data/master.key
+
